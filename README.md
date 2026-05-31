@@ -20,7 +20,11 @@ A transição para o mundo digital — como o uso do Pix e de bancos digitais �
 
 ## 🎬 Demonstração
 
-*(Espaço reservado para gifs ou capturas de tela do funcionamento do sistema)*
+### Tela Inicial - Escolha de Categorias
+![Tela Inicial do Clique Seguro](https://raw.githubusercontent.com/SEU-USUARIO/clique-seguro/main/imagens%20do%20sistema/home.png)
+
+### Interface de Lições - Passo a Passo Interativo
+![Interface de Passos do Clique Seguro](https://raw.githubusercontent.com/SEU-USUARIO/clique-seguro/main/imagens%20do%20sistema/passo_a_passo.png)
 
 ---
 
@@ -37,8 +41,8 @@ A transição para o mundo digital — como o uso do Pix e de bancos digitais �
 ```text
 CLIQUE-SEGURO/
 ├── imagens do sistema/
-│   ├── hero.jpg
-│   ├── iconeLogo.png
+│   ├── home.png
+│   ├── passo_a_passo.png
 │   └── outras imagens das lições
 ├── index.html
 ├── style.css
