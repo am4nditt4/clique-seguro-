@@ -30,15 +30,11 @@ A transição para o mundo digital — como o uso do Pix e de bancos digitais �
 
 ## 💻 Tecnologias Utilizadas
 
-## 💻 Tecnologias Utilizadas
-
 | Camada | Tecnologia | Motivo |
 | :--- | :--- | :--- |
-| **Front-End** | HTML5, CSS3, JavaScript e Bootstrap | Utilizados para construir a estrutura semântica das páginas, aplicar a estilização responsiva baseada no framework Bootstrap com foco na experiência do usuário (UX) e acessibilidade, além de gerenciar a lógica interativa da aplicação. |
-| **Back-End** | PostgreSQL | Utilizado como sistema de gerenciamento de banco de dados relacional para estruturar, salvar e gerenciar de forma robusta e segura as informações da aplicação, garantindo escalabilidade. |
-
-
----
+| **Front-End** | HTML5, CSS3 e JavaScript | Camada de apresentação responsável pela interface do usuário através de templates responsivos. Prioriza a ergonomia e a acessibilidade (como botões grandes e alto contraste) para reduzir a carga cognitiva e adaptar-se dinamicamente ao perfil do idoso. |
+| **Back-End** | Python e Django 6.0 | Linguagem principal e framework web que adotam o padrão de arquitetura MVT (Model-View-Template). Fornecem alta escalabilidade, suporte a operações assíncronas e proteções nativas contra vulnerabilidades comuns da web para suportar o processamento dinâmico do suporte adaptativo. |
+| **Banco de Dados** | MySQL | Sistema Gerenciador de Banco de Dados (SGBD) relacional escolhido por sua confiabilidade, performance em operações de leitura e ampla compatibilidade com o framework Django, estruturado de forma normal para garantir a integridade dos dados. |
 
 ## 📁 Estrutura de Pastas
 
