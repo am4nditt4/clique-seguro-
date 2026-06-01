@@ -30,9 +30,13 @@ A transição para o mundo digital — como o uso do Pix e de bancos digitais �
 
 ## 💻 Tecnologias Utilizadas
 
+## 💻 Tecnologias Utilizadas
+
 | Camada | Tecnologia | Motivo |
 | :--- | :--- | :--- |
-| **Front-End** | HTML5, CSS3 e JavaScript | Utilizados para construir a estrutura semântica das páginas, aplicar a estilização responsiva com foco em alto contraste e gerenciar a lógica interativa de navegação dos passos, controle de estado e recursos de acessibilidade (zoom e leitura de texto). |
+| **Front-End** | HTML5, CSS3, JavaScript e Bootstrap | Utilizados para construir a estrutura semântica das páginas, aplicar a estilização responsiva baseada no framework Bootstrap com foco na experiência do usuário (UX) e acessibilidade, além de gerenciar a lógica interativa da aplicação. |
+| **Back-End** | PostgreSQL | Utilizado como sistema de gerenciamento de banco de dados relacional para estruturar, salvar e gerenciar de forma robusta e segura as informações da aplicação, garantindo escalabilidade. |
+
 
 ---
 
